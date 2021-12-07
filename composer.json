@@ -1,0 +1,15 @@
+{
+    "name": "art/php-class",
+    "autoload": {
+        "psr-4": {
+            "Art\\PhpClass\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "HellenWeb",
+            "email": "84445465+HellenWeb@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}
